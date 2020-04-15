@@ -13,25 +13,15 @@
 <body>
     <div class="container ">
         <div class="logo"></div>
-        <div class="search-container">
+        <form class="search-container" method="GET">
             <div class="wrapper">
-                <input id="search-lable" type="text" placeholder="Enter URL.." name="search">
-                <button class="search-button" type="submit" onclick="myFunction()">
+                <input id="search-lable" type="text" autocomplete="off" placeholder="Enter URL.." name="url">
+                <button class="search-button" type="submit" formaction="info-profile.php">
                     <i class="search-icon fa fa-search"></i>
                 </button>
             </div>
-        </div>
+        </form>
     </div>
-    <script>
-        function myFunction() {
-            var url = document.getElementById("search-lable").value;
-            var flag = url.includes("https://www.facebook.com/");
-            if(flag) {   
-                /*.....*/
-            }else{
-                document.getElementById("search-lable").placeholder = "URL may be wrong. Please enter again..";
-            }
-        }
     </script>
 </body>
 </html>

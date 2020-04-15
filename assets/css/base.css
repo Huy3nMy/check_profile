@@ -3,7 +3,7 @@ html {
     line-height: 1.6rem;
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
-    background-color: #000;
+    background-color:black;
 }
 
 @media screen and (max-width: 600px) {
