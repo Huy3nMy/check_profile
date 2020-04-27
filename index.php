@@ -16,12 +16,11 @@
         <form class="search-container" method="GET">
             <div class="wrapper">
                 <input id="search-lable" type="text" autocomplete="off" placeholder="Enter URL.." name="url">
-                <button class="search-button" type="submit" formaction="info-profile.php">
+                <button class="search-button" type="submit" formaction="loadding.php">
                     <i class="search-icon fa fa-search"></i>
                 </button>
             </div>
         </form>
     </div>
-    </script>
 </body>
 </html>
