@@ -1,0 +1,927 @@
+TIME              || TYPE          || REACTS || CMTs || IMGs ||
+
+Tuesday, 21 April 2020 at 19:26 || shared a post || 13 || 0 || 0
+Wednesday, 15 April 2020 at 23:07 || status update || 28 || 11  || 0
+Tuesday, 14 April 2020 at 10:01 || status update || 8 || 0 || 0
+Monday, 13 April 2020 at 21:04 || status update || 10 || 0 || 1
+Thursday, 9 April 2020 at 14:06 || shared a post || 5 || 0 || 0
+Friday, 3 April 2020 at 01:56 || status update || 6 || 0 || 0
+Thursday, 2 April 2020 at 11:27 || status update || 2 || 0 || 0
+Wednesday, 1 April 2020 at 07:38 || status update || 3 || 0 || 1
+Tuesday, 31 March 2020 at 15:49 || shared a post || 0 || 0 || 0
+Monday, 30 March 2020 at 21:45 || shared a post || 1 || 1  || 0
+Wednesday, 25 March 2020 at 12:02 || shared a post || 14 || 0 || 0
+Tuesday, 24 March 2020 at 11:12 || shared a post || 9 || 2  || 0
+Monday, 23 March 2020 at 00:11 || shared a post || 2 || 0 || 0
+Friday, 20 March 2020 at 15:20 || status update || 20 || 2  || 1
+Wednesday, 11 March 2020 at 22:15 || status update || 18 || 2  || 0
+Friday, 28 February 2020 at 22:13 || check in || 15 || 13  || 0
+Friday, 14 February 2020 at 10:27 || shared memory || 5 || 0 || 0
+Saturday, 8 February 2020 at 21:27 || status update || 10 || 17  || 1
+Sunday, 2 February 2020 at 20:15 || shared a post || 4 || 1  || 0
+Friday, 24 January 2020 at 20:44 || status update || 122 || 30  || 13
+Tuesday, 21 January 2020 at 18:46 || shared a post || 13 || 0 || 0
+Monday, 20 January 2020 at 22:54 || shared a post || 10 || 0 || 0
+Thursday, 16 January 2020 at 09:25 || shared memory || 5 || 0 || 0
+Wednesday, 1 January 2020 at 08:26 || shared a post || 2 || 0 || 0
+Tuesday, 31 December 2019 at 23:09 || status update || 42 || 8  || 1
+Tuesday, 17 December 2019 at 22:22 || status update || 17 || 7  || 0
+Tuesday, 17 December 2019 at 21:35 || status update || 14 || 4  || 0
+Tuesday, 17 December 2019 at 21:29 || status update || 14 || 2  || 0
+Tuesday, 17 December 2019 at 21:03 || status update || 14 || 7  || 0
+Tuesday, 26 November 2019 at 22:57 || status update || 11 || 3  || 0
+Monday, 25 November 2019 at 22:47 || shared a post || 7 || 0 || 0
+Friday, 22 November 2019 at 07:03 || shared memory || 3 || 0 || 0
+Friday, 15 November 2019 at 22:54 || shared a post || 4 || 0 || 0
+Friday, 8 November 2019 at 09:41 || shared a post || 5 || 3  || 0
+Saturday, 19 October 2019 at 15:59 || shared a post || 4 || 0 || 0
+Friday, 27 September 2019 at 09:42 || shared memory || 3 || 0 || 10
+Saturday, 7 September 2019 at 21:14 || shared a post || 3 || 0 || 0
+Thursday, 5 September 2019 at 08:29 || shared a post || 8 || 0 || 4
+Thursday, 5 September 2019 at 07:57 || status update || 34 || 5  || 1
+Sunday, 1 September 2019 at 18:50 || shared a post || 4 || 0 || 0
+Tuesday, 27 August 2019 at 13:31 || shared a post || 3 || 0 || 0
+Sunday, 25 August 2019 at 19:24 || shared a post || 2 || 0 || 0
+Tuesday, 20 August 2019 at 00:41 || shared memory || 0 || 0 || 0
+Friday, 16 August 2019 at 12:20 || shared a post || 6 || 0 || 0
+Wednesday, 14 August 2019 at 13:05 || shared a post || 5 || 6  || 0
+Tuesday, 13 August 2019 at 20:29 || shared a post || 36 || 12  || 1
+Tuesday, 13 August 2019 at 09:03 || shared a post || 2 || 0 || 0
+Sunday, 11 August 2019 at 11:03 || shared a post || 1 || 0 || 0
+Friday, 9 August 2019 at 17:17 || shared a post || 1 || 0 || 0
+Thursday, 8 August 2019 at 17:15 || shared a post || 1 || 0 || 0
+Wednesday, 7 August 2019 at 14:59 || shared a post || 4 || 7  || 0
+Monday, 5 August 2019 at 07:30 || shared a post || 13 || 2  || 1
+Monday, 29 July 2019 at 20:20 || shared a post || 2 || 0 || 0
+Monday, 29 July 2019 at 19:59 || shared a post || 4 || 0 || 0
+Friday, 26 July 2019 at 12:01 || shared a post || 3 || 0 || 0
+Monday, 22 July 2019 at 21:23 || status update || 8 || 0 || 0
+Sunday, 21 July 2019 at 21:38 || status update || 20 || 0 || 1
+Friday, 19 July 2019 at 20:07 || status update || 25 || 2  || 8
+Wednesday, 17 July 2019 at 19:28 || status update || 5 || 0 || 1
+Wednesday, 17 July 2019 at 16:56 || status update || 12 || 1  || 11
+Wednesday, 17 July 2019 at 12:41 || status update || 19 || 0 || 1
+Wednesday, 17 July 2019 at 07:46 || status update || 23 || 0 || 1
+Monday, 8 July 2019 at 21:42 || shared a post || 3 || 2  || 2
+Monday, 8 July 2019 at 11:00 || shared a post || 2 || 0 || 0
+Tuesday, 18 June 2019 at 11:35 || shared a post || 4 || 15  || 0
+Friday, 7 June 2019 at 01:28 || shared memory || 2 || 0 || 0
+Saturday, 1 June 2019 at 18:08 || shared a post || 5 || 0 || 0
+Friday, 31 May 2019 at 06:59 || shared memory || 1 || 0 || 0
+Thursday, 30 May 2019 at 18:06 || shared a post || 3 || 0 || 0
+Monday, 27 May 2019 at 20:31 || status update || 44 || 1  || 1
+Friday, 24 May 2019 at 16:16 || shared a post || 1 || 0 || 0
+Thursday, 23 May 2019 at 11:20 || shared a post || 3 || 0 || 0
+Tuesday, 21 May 2019 at 00:27 || shared a post || 3 || 0 || 0
+Thursday, 9 May 2019 at 18:13 || status update || 7 || 0 || 1
+Monday, 6 May 2019 at 22:11 || shared a post || 4 || 0 || 9
+Sunday, 5 May 2019 at 11:43 || shared a post || 1 || 0 || 0
+Monday, 29 April 2019 at 22:01 || shared a post || 5 || 0 || 0
+Monday, 29 April 2019 at 20:04 || shared a post || 3 || 0 || 0
+Thursday, 25 April 2019 at 22:03 || status update || 4 || 0 || 0
+Thursday, 25 April 2019 at 21:47 || shared a post || 1 || 0 || 0
+Wednesday, 24 April 2019 at 23:05 || shared a post || 3 || 3  || 0
+Monday, 22 April 2019 at 20:01 || status update || 56 || 12  || 0
+Saturday, 13 April 2019 at 00:39 || status update || 76 || 17  || 1
+Thursday, 11 April 2019 at 07:38 || shared a post || 3 || 0 || 0
+Wednesday, 10 April 2019 at 14:08 || shared a post || 5 || 0 || 0
+Sunday, 7 April 2019 at 22:57 || shared a post || 1 || 0 || 0
+Saturday, 6 April 2019 at 23:27 || shared a post || 2 || 0 || 0
+Saturday, 6 April 2019 at 18:45 || shared a post || 4 || 1  || 0
+Sunday, 31 March 2019 at 14:16 || status update || 29 || 15  || 0
+Friday, 29 March 2019 at 12:46 || shared a post || 1 || 0 || 0
+Monday, 25 March 2019 at 01:59 || shared a post || 4 || 7  || 0
+Monday, 18 March 2019 at 06:02 || status update || 4 || 0 || 0
+Sunday, 17 March 2019 at 10:24 || status update || 68 || 17  || 1
+Saturday, 16 March 2019 at 21:51 || status update || 12 || 6  || 1
+Wednesday, 6 March 2019 at 00:11 || shared memory || 2 || 0 || 0
+Sunday, 3 March 2019 at 12:46 || status update || 2 || 0 || 0
+Friday, 1 March 2019 at 21:34 || shared a post || 2 || 0 || 0
+Monday, 25 February 2019 at 23:48 || shared a post || 1 || 0 || 19
+Sunday, 24 February 2019 at 08:55 || status update || 6 || 1  || 0
+Tuesday, 19 February 2019 at 10:44 || shared a post || 2 || 0 || 0
+Monday, 18 February 2019 at 20:24 || status update || 4 || 0 || 0
+Monday, 18 February 2019 at 15:47 || status update || 6 || 0 || 0
+Monday, 18 February 2019 at 12:02 || shared a post || 5 || 0 || 0
+Monday, 18 February 2019 at 10:45 || status update || 5 || 0 || 0
+Saturday, 16 February 2019 at 12:06 || status update || 1 || 0 || 1
+Saturday, 16 February 2019 at 11:47 || status update || 16 || 3  || 0
+Thursday, 14 February 2019 at 15:13 || shared a post || 1 || 0 || 0
+Thursday, 14 February 2019 at 07:24 || shared memory || 1 || 0 || 0
+Wednesday, 13 February 2019 at 11:48 || shared a post || 3 || 0 || 0
+Sunday, 10 February 2019 at 21:39 || status update || 24 || 0 || 8
+Sunday, 10 February 2019 at 20:39 || status update || 10 || 1  || 0
+Saturday, 9 February 2019 at 21:55 || shared a post || 7 || 0 || 0
+Thursday, 7 February 2019 at 17:57 || shared a post || 5 || 0 || 0
+Wednesday, 6 February 2019 at 15:52 || shared a post || 4 || 1  || 0
+Tuesday, 5 February 2019 at 01:44 || status update || 71 || 3  || 0
+Sunday, 3 February 2019 at 10:52 || shared a post || 9 || 3  || 1
+Saturday, 2 February 2019 at 12:21 || status update || 4 || 0 || 0
+Friday, 1 February 2019 at 09:59 || shared a post || 2 || 3  || 1
+Saturday, 26 January 2019 at 19:49 || shared a post || 5 || 0 || 0
+Saturday, 12 January 2019 at 13:27 || status update || 1 || 0 || 0
+Thursday, 10 January 2019 at 23:45 || shared a post || 6 || 0 || 0
+Friday, 4 January 2019 at 01:05 || shared memory || 8 || 4  || 0
+Saturday, 29 December 2018 at 20:19 || status update || 1 || 0 || 3
+Friday, 28 December 2018 at 00:00 || status update || 40 || 18  || 1
+Friday, 21 December 2018 at 22:20 || status update || 31 || 26  || 0
+Friday, 21 December 2018 at 20:15 || shared a post || 5 || 1  || 0
+Thursday, 20 December 2018 at 20:19 || status update || 5 || 17  || 0
+Thursday, 20 December 2018 at 18:04 || shared memory || 10 || 6  || 0
+Thursday, 20 December 2018 at 14:09 || status update || 20 || 16  || 1
+Thursday, 20 December 2018 at 10:37 || status update || 33 || 16  || 0
+Tuesday, 18 December 2018 at 00:06 || status update || 28 || 9  || 1
+Saturday, 15 December 2018 at 22:22 || shared a post || 13 || 14  || 0
+Saturday, 15 December 2018 at 13:03 || status update || 13 || 10  || 0
+Monday, 10 December 2018 at 11:57 || shared a post || 6 || 0 || 13
+Sunday, 9 December 2018 at 13:41 || shared a post || 4 || 0 || 14
+Saturday, 8 December 2018 at 00:09 || shared memory || 11 || 10  || 1
+Friday, 7 December 2018 at 21:51 || shared a post || 7 || 16  || 0
+Friday, 7 December 2018 at 06:35 || shared memory || 2 || 0 || 0
+Thursday, 6 December 2018 at 16:47 || shared a post || 3 || 8  || 0
+Wednesday, 5 December 2018 at 22:22 || shared a post || 7 || 1  || 0
+Wednesday, 5 December 2018 at 18:02 || status update || 11 || 2  || 0
+Monday, 3 December 2018 at 22:23 || shared a post || 8 || 0 || 0
+Monday, 3 December 2018 at 21:17 || status update || 1 || 0 || 1
+Monday, 3 December 2018 at 18:03 || status update || 3 || 0 || 0
+Friday, 30 November 2018 at 18:52 || shared a post || 8 || 2  || 0
+Monday, 26 November 2018 at 12:04 || shared a post || 7 || 11  || 12
+Sunday, 25 November 2018 at 18:06 || shared a post || 6 || 0 || 3
+Saturday, 24 November 2018 at 22:14 || shared a post || 5 || 0 || 8
+Friday, 23 November 2018 at 01:18 || shared a post || 8 || 0 || 7
+Thursday, 22 November 2018 at 10:29 || shared a post || 7 || 0 || 1
+Thursday, 22 November 2018 at 00:35 || shared a post || 3 || 0 || 0
+Tuesday, 13 November 2018 at 21:03 || status update || 24 || 14  || 0
+Monday, 12 November 2018 at 17:34 || shared a post || 4 || 0 || 3
+Saturday, 10 November 2018 at 10:49 || shared memory || 4 || 0 || 0
+Friday, 9 November 2018 at 21:01 || status update || 116 || 50  || 1
+Friday, 9 November 2018 at 12:51 || shared a post || 1 || 0 || 0
+Friday, 9 November 2018 at 12:36 || shared a post || 8 || 0 || 0
+Wednesday, 7 November 2018 at 20:48 || shared a post || 7 || 6  || 0
+Wednesday, 7 November 2018 at 20:06 || status update || 31 || 11  || 1
+Tuesday, 6 November 2018 at 16:41 || status update || 7 || 2  || 0
+Monday, 5 November 2018 at 21:01 || status update || 5 || 11  || 0
+Monday, 5 November 2018 at 14:14 || status update || 18 || 0 || 15
+Monday, 5 November 2018 at 14:13 || status update || 12 || 1  || 19
+Monday, 5 November 2018 at 07:26 || shared memory || 3 || 0 || 0
+Sunday, 4 November 2018 at 18:21 || check in || 15 || 0 || 1
+Saturday, 3 November 2018 at 10:38 || shared a post || 10 || 3  || 0
+Monday, 29 October 2018 at 21:28 || status update || 7 || 1  || 0
+Monday, 29 October 2018 at 00:50 || shared a post || 1 || 0 || 10
+Thursday, 25 October 2018 at 13:37 || shared a post || 4 || 14  || 7
+Sunday, 21 October 2018 at 21:31 || status update || 21 || 0 || 3
+Friday, 19 October 2018 at 23:23 || shared a post || 9 || 3  || 6
+Thursday, 18 October 2018 at 23:43 || shared a post || 3 || 1  || 0
+Thursday, 18 October 2018 at 11:21 || shared a post || 0 || 0 || 8
+Tuesday, 16 October 2018 at 23:54 || status update || 9 || 2  || 0
+Tuesday, 16 October 2018 at 08:29 || shared a post || 6 || 0 || 0
+Monday, 8 October 2018 at 11:07 || status update || 4 || 4  || 0
+Sunday, 7 October 2018 at 20:17 || status update || 70 || 33  || 1
+Saturday, 6 October 2018 at 08:13 || shared a post || 4 || 0 || 7
+Wednesday, 3 October 2018 at 12:08 || status update || 25 || 6  || 1
+Wednesday, 3 October 2018 at 07:41 || status update || 60 || 7  || 1
+Tuesday, 2 October 2018 at 10:39 || shared a post || 6 || 1  || 3
+Monday, 1 October 2018 at 01:13 || shared a post || 7 || 0 || 4
+Saturday, 29 September 2018 at 18:52 || shared a post || 6 || 6  || 3
+Thursday, 27 September 2018 at 16:59 || shared a post || 3 || 0 || 10
+Wednesday, 26 September 2018 at 08:20 || shared memory || 2 || 0 || 0
+Thursday, 20 September 2018 at 11:26 || shared a post || 2 || 0 || 8
+Monday, 17 September 2018 at 12:20 || status update || 27 || 0 || 1
+Monday, 17 September 2018 at 11:42 || shared a post || 7 || 0 || 0
+Thursday, 13 September 2018 at 14:35 || shared a post || 4 || 0 || 0
+Wednesday, 12 September 2018 at 11:14 || shared a post || 1 || 0 || 7
+Tuesday, 11 September 2018 at 19:23 || shared a post || 7 || 0 || 0
+Tuesday, 11 September 2018 at 12:19 || shared a post || 4 || 4  || 0
+Monday, 10 September 2018 at 12:09 || status update || 5 || 0 || 0
+Sunday, 9 September 2018 at 20:37 || status update || 22 || 24  || 1
+Friday, 7 September 2018 at 13:48 || status update || 21 || 2  || 1
+Monday, 3 September 2018 at 13:59 || shared a post || 5 || 7  || 0
+Monday, 3 September 2018 at 05:23 || shared a post || 7 || 0 || 6
+Sunday, 2 September 2018 at 14:31 || check in || 65 || 11  || 14
+Sunday, 2 September 2018 at 12:50 || shared memory || 18 || 9  || 20
+Friday, 31 August 2018 at 06:34 || shared memory || 10 || 3  || 0
+Wednesday, 29 August 2018 at 07:02 || shared a post || 2 || 0 || 0
+Friday, 24 August 2018 at 15:44 || shared a post || 9 || 15  || 0
+Friday, 24 August 2018 at 06:22 || shared a post || 7 || 0 || 17
+Monday, 20 August 2018 at 22:40 || shared a post || 1 || 0 || 7
+Monday, 20 August 2018 at 10:13 || shared a post || 0 || 0 || 0
+Monday, 20 August 2018 at 08:42 || shared memory || 3 || 5  || 0
+Saturday, 18 August 2018 at 01:11 || shared a post || 5 || 0 || 0
+Friday, 17 August 2018 at 14:26 || shared a post || 2 || 0 || 0
+Thursday, 16 August 2018 at 08:07 || shared a post || 10 || 1  || 0
+Monday, 13 August 2018 at 16:07 || shared a post || 1 || 0 || 12
+Sunday, 12 August 2018 at 21:26 || shared a post || 3 || 0 || 0
+Saturday, 11 August 2018 at 12:49 || shared a post || 3 || 0 || 0
+Saturday, 11 August 2018 at 12:38 || shared a post || 0 || 1  || 12
+Saturday, 11 August 2018 at 12:31 || shared a post || 3 || 0 || 2
+Sunday, 5 August 2018 at 19:15 || shared a post || 5 || 0 || 0
+Friday, 3 August 2018 at 12:11 || status update || 27 || 15  || 0
+Wednesday, 1 August 2018 at 21:58 || status update || 32 || 22  || 1
+Wednesday, 1 August 2018 at 21:48 || shared memory || 22 || 8  || 0
+Monday, 30 July 2018 at 20:56 || status update || 58 || 48  || 2
+Monday, 30 July 2018 at 10:20 || shared a post || 8 || 0 || 0
+Monday, 23 July 2018 at 22:12 || shared a post || 9 || 6  || 0
+Wednesday, 18 July 2018 at 15:05 || status update || 68 || 2  || 1
+Wednesday, 18 July 2018 at 15:04 || status update || 4 || 0 || 1
+Wednesday, 18 July 2018 at 07:50 || status update || 62 || 21  || 0
+Tuesday, 10 July 2018 at 22:44 || shared a post || 6 || 1  || 0
+Sunday, 8 July 2018 at 17:21 || status update || 76 || 3  || 3
+Friday, 6 July 2018 at 07:09 || shared memory || 5 || 1  || 1
+Tuesday, 3 July 2018 at 21:37 || shared a post || 4 || 0 || 0
+Monday, 2 July 2018 at 00:19 || status update || 37 || 2  || 1
+Sunday, 1 July 2018 at 20:27 || status update || 119 || 50  || 17
+Wednesday, 27 June 2018 at 17:07 || shared memory || 10 || 12  || 0
+Tuesday, 26 June 2018 at 18:09 || shared a post || 4 || 0 || 17
+Monday, 25 June 2018 at 18:25 || shared a post || 5 || 1  || 5
+Sunday, 24 June 2018 at 22:13 || shared a post || 7 || 3  || 0
+Sunday, 24 June 2018 at 16:25 || status update || 13 || 0 || 24
+Sunday, 24 June 2018 at 14:19 || shared a post || 52 || 3  || 0
+Sunday, 24 June 2018 at 10:48 || status update || 33 || 15  || 1
+Friday, 22 June 2018 at 18:27 || shared a post || 8 || 1  || 0
+Friday, 22 June 2018 at 08:45 || shared memory || 3 || 1  || 0
+Thursday, 21 June 2018 at 08:12 || shared memory || 12 || 3  || 0
+Sunday, 17 June 2018 at 20:11 || shared a post || 4 || 1  || 34
+Wednesday, 13 June 2018 at 18:45 || shared a post || 5 || 0 || 0
+Wednesday, 13 June 2018 at 09:11 || shared memory || 8 || 7  || 3
+Sunday, 10 June 2018 at 19:17 || shared a post || 8 || 2  || 0
+Thursday, 7 June 2018 at 08:28 || shared a post || 9 || 5  || 0
+Monday, 4 June 2018 at 11:22 || shared a post || 4 || 0 || 1
+Thursday, 31 May 2018 at 14:07 || shared a post || 7 || 0 || 0
+Wednesday, 30 May 2018 at 20:41 || shared a post || 2 || 0 || 0
+Wednesday, 30 May 2018 at 19:47 || shared memory || 7 || 0 || 1
+Sunday, 27 May 2018 at 19:04 || status update || 71 || 33  || 3
+Tuesday, 8 May 2018 at 07:36 || shared memory || 9 || 0 || 0
+Saturday, 5 May 2018 at 00:59 || shared a post || 0 || 0 || 0
+Friday, 27 April 2018 at 22:34 || status update || 9 || 0 || 0
+Wednesday, 25 April 2018 at 13:18 || shared a post || 4 || 0 || 0
+Tuesday, 24 April 2018 at 15:04 || shared a post || 3 || 0 || 10
+Sunday, 22 April 2018 at 12:00 || status update || 35 || 4  || 3
+Friday, 20 April 2018 at 21:10 || shared a post || 17 || 7  || 0
+Thursday, 19 April 2018 at 13:22 || shared a post || 11 || 0 || 0
+Monday, 16 April 2018 at 12:56 || shared memory || 6 || 0 || 0
+Monday, 16 April 2018 at 10:50 || shared a post || 4 || 5  || 0
+Friday, 13 April 2018 at 23:28 || status update || 76 || 17  || 1
+Sunday, 8 April 2018 at 20:31 || shared a post || 5 || 5  || 25
+Saturday, 7 April 2018 at 13:27 || shared a post || 3 || 0 || 0
+Thursday, 5 April 2018 at 18:27 || shared a post || 10 || 7  || 7
+Saturday, 31 March 2018 at 21:47 || shared a post || 1 || 0 || 0
+Friday, 30 March 2018 at 15:02 || shared memory || 32 || 5  || 0
+Wednesday, 28 March 2018 at 19:09 || status update || 93 || 5  || 1
+Friday, 23 March 2018 at 01:32 || shared a post || 3 || 4  || 0
+Monday, 19 March 2018 at 15:40 || status update || 19 || 30  || 0
+Sunday, 18 March 2018 at 14:00 || check in || 28 || 5  || 15
+Saturday, 17 March 2018 at 07:31 || shared memory || 5 || 7  || 0
+Thursday, 15 March 2018 at 08:18 || shared a post || 0 || 0 || 37
+Wednesday, 14 March 2018 at 05:54 || shared a post || 4 || 0 || 37
+Tuesday, 13 March 2018 at 13:09 || shared memory || 12 || 31  || 0
+Sunday, 11 March 2018 at 10:00 || shared a post || 4 || 0 || 0
+Friday, 9 March 2018 at 16:30 || status update || 16 || 7  || 1
+Friday, 9 March 2018 at 15:36 || shared a post || 3 || 0 || 0
+Thursday, 8 March 2018 at 11:10 || shared memory || 13 || 1  || 0
+Wednesday, 7 March 2018 at 19:16 || status update || 102 || 15  || 9
+Monday, 5 March 2018 at 20:10 || shared a post || 6 || 1  || 0
+Monday, 5 March 2018 at 13:55 || shared a post || 4 || 2  || 0
+Saturday, 3 March 2018 at 19:51 || status update || 69 || 8  || 2
+Friday, 2 March 2018 at 16:02 || shared a post || 6 || 0 || 26
+Friday, 2 March 2018 at 13:32 || status update || 27 || 37  || 1
+Friday, 2 March 2018 at 11:56 || shared memory || 6 || 3  || 0
+Friday, 2 March 2018 at 07:35 || status update || 4 || 10  || 0
+Thursday, 1 March 2018 at 16:03 || shared a post || 13 || 5  || 0
+Thursday, 1 March 2018 at 07:07 || shared a post || 9 || 0 || 3
+Tuesday, 27 February 2018 at 21:36 || shared a post || 3 || 6  || 0
+Tuesday, 27 February 2018 at 21:34 || shared a post || 3 || 5  || 0
+Monday, 26 February 2018 at 17:12 || shared a post || 2 || 0 || 0
+Saturday, 24 February 2018 at 21:02 || status update || 23 || 1  || 0
+Saturday, 24 February 2018 at 18:09 || shared a post || 4 || 0 || 0
+Friday, 23 February 2018 at 09:32 || shared a post || 2 || 1  || 4
+Thursday, 22 February 2018 at 17:13 || shared a post || 6 || 24  || 0
+Tuesday, 20 February 2018 at 12:26 || shared a post || 23 || 12  || 0
+Monday, 19 February 2018 at 14:31 || shared a post || 3 || 3  || 0
+Sunday, 18 February 2018 at 21:34 || status update || 24 || 11  || 1
+Sunday, 18 February 2018 at 19:50 || status update || 98 || 6  || 3
+Sunday, 18 February 2018 at 18:26 || status update || 34 || 0 || 31
+Sunday, 18 February 2018 at 17:55 || status update || 161 || 14  || 18
+Sunday, 18 February 2018 at 16:42 || status update || 139 || 7  || 18
+Saturday, 17 February 2018 at 21:04 || check in || 36 || 0 || 39
+Saturday, 17 February 2018 at 09:11 || check in || 40 || 13  || 10
+Saturday, 17 February 2018 at 09:10 || status update || 26 || 0 || 1
+Friday, 16 February 2018 at 11:18 || status update || 0 || 1  || 1
+Friday, 16 February 2018 at 09:19 || status update || 73 || 5  || 17
+Friday, 16 February 2018 at 08:40 || status update || 0 || 0 || 1
+Friday, 16 February 2018 at 08:40 || status update || 0 || 0 || 1
+Friday, 16 February 2018 at 08:40 || status update || 0 || 0 || 1
+Wednesday, 14 February 2018 at 19:59 || shared a post || 5 || 5  || 0
+Monday, 12 February 2018 at 15:15 || shared memory || 8 || 7  || 0
+Thursday, 8 February 2018 at 16:33 || status update || 27 || 24  || 0
+Monday, 5 February 2018 at 04:36 || status update || 23 || 11  || 0
+Sunday, 4 February 2018 at 08:41 || status update || 34 || 30  || 0
+Saturday, 27 January 2018 at 18:58 || shared a post || 3 || 0 || 0
+Saturday, 27 January 2018 at 18:28 || shared a post || 4 || 0 || 0
+Friday, 26 January 2018 at 18:18 || shared a post || 7 || 0 || 0
+Friday, 26 January 2018 at 13:07 || status update || 19 || 12  || 0
+Thursday, 25 January 2018 at 20:06 || shared a post || 6 || 0 || 0
+Thursday, 25 January 2018 at 12:40 || status update || 22 || 6  || 0
+Wednesday, 24 January 2018 at 19:22 || shared a post || 4 || 0 || 14
+Tuesday, 23 January 2018 at 13:46 || shared a post || 1 || 0 || 0
+Tuesday, 23 January 2018 at 10:17 || shared memory || 10 || 4  || 0
+Monday, 22 January 2018 at 11:56 || shared memory || 4 || 5  || 0
+Sunday, 21 January 2018 at 18:17 || status update || 33 || 7  || 0
+Sunday, 21 January 2018 at 09:19 || shared a post || 7 || 0 || 0
+Saturday, 20 January 2018 at 18:36 || status update || 15 || 17  || 0
+Tuesday, 16 January 2018 at 22:18 || shared a post || 3 || 0 || 0
+Sunday, 14 January 2018 at 16:29 || status update || 84 || 34  || 0
+Saturday, 13 January 2018 at 19:22 || status update || 39 || 42  || 0
+Friday, 12 January 2018 at 20:46 || shared memory || 2 || 0 || 0
+Wednesday, 10 January 2018 at 22:41 || status update || 17 || 3  || 0
+Tuesday, 9 January 2018 at 17:16 || shared a post || 2 || 0 || 0
+Tuesday, 9 January 2018 at 12:43 || status update || 24 || 29  || 0
+Saturday, 6 January 2018 at 10:11 || shared a post || 3 || 0 || 0
+Thursday, 4 January 2018 at 19:33 || status update || 43 || 25  || 0
+Wednesday, 3 January 2018 at 14:37 || shared a post || 6 || 0 || 0
+Saturday, 30 December 2017 at 10:59 || shared memory || 2 || 1  || 0
+Friday, 29 December 2017 at 18:59 || status update || 33 || 50  || 0
+Friday, 29 December 2017 at 13:18 || shared a post || 5 || 1  || 18
+Friday, 29 December 2017 at 10:00 || status update || 1 || 0 || 0
+Thursday, 28 December 2017 at 00:03 || status update || 72 || 47  || 1
+Monday, 25 December 2017 at 22:01 || status update || 41 || 7  || 0
+Sunday, 24 December 2017 at 21:04 || status update || 38 || 6  || 1
+Sunday, 24 December 2017 at 08:45 || shared a post || 5 || 0 || 0
+Saturday, 23 December 2017 at 19:09 || status update || 10 || 3  || 0
+Saturday, 23 December 2017 at 07:45 || status update || 33 || 22  || 0
+Wednesday, 20 December 2017 at 20:28 || status update || 29 || 11  || 1
+Tuesday, 19 December 2017 at 19:04 || status update || 24 || 11  || 8
+Monday, 18 December 2017 at 23:39 || status update || 17 || 4  || 0
+Monday, 18 December 2017 at 07:57 || status update || 41 || 0 || 1
+Saturday, 16 December 2017 at 21:44 || status update || 28 || 16  || 0
+Thursday, 14 December 2017 at 22:44 || shared a post || 6 || 2  || 0
+Wednesday, 13 December 2017 at 06:59 || status update || 75 || 0 || 1
+Tuesday, 12 December 2017 at 22:05 || status update || 131 || 9  || 1
+Monday, 11 December 2017 at 19:42 || status update || 94 || 9  || 1
+Sunday, 10 December 2017 at 18:39 || status update || 20 || 21  || 0
+Saturday, 9 December 2017 at 18:44 || status update || 188 || 34  || 1
+Saturday, 9 December 2017 at 11:35 || status update || 27 || 37  || 0
+Friday, 8 December 2017 at 23:27 || status update || 26 || 68  || 1
+Thursday, 7 December 2017 at 19:57 || shared a post || 10 || 3  || 0
+Tuesday, 5 December 2017 at 16:54 || status update || 78 || 49  || 1
+Monday, 4 December 2017 at 07:54 || shared a post || 5 || 0 || 0
+Sunday, 3 December 2017 at 10:22 || status update || 70 || 13  || 13
+Friday, 1 December 2017 at 13:04 || status update || 120 || 98  || 1
+Monday, 27 November 2017 at 07:43 || status update || 29 || 1  || 1
+Saturday, 25 November 2017 at 19:27 || shared a post || 18 || 3  || 0
+Friday, 24 November 2017 at 20:39 || shared a post || 4 || 0 || 0
+Tuesday, 21 November 2017 at 09:53 || shared memory || 34 || 2  || 0
+Friday, 17 November 2017 at 23:00 || shared a post || 5 || 0 || 0
+Monday, 13 November 2017 at 09:06 || shared a post || 8 || 0 || 0
+Sunday, 12 November 2017 at 18:44 || status update || 29 || 0 || 4
+Saturday, 4 November 2017 at 00:23 || status update || 0 || 0 || 0
+Tuesday, 31 October 2017 at 21:50 || shared a post || 2 || 0 || 0
+Thursday, 26 October 2017 at 17:36 || status update || 65 || 10  || 1
+Sunday, 22 October 2017 at 13:50 || check in || 41 || 3  || 27
+Sunday, 22 October 2017 at 12:44 || check in || 52 || 4  || 29
+Sunday, 22 October 2017 at 12:33 || check in || 66 || 13  || 28
+Sunday, 22 October 2017 at 06:08 || status update || 69 || 4  || 1
+Saturday, 21 October 2017 at 09:00 || shared a post || 4 || 0 || 10
+Saturday, 21 October 2017 at 08:00 || shared memory || 32 || 2  || 0
+Friday, 20 October 2017 at 18:50 || status update || 29 || 1  || 0
+Friday, 20 October 2017 at 05:43 || status update || 103 || 25  || 3
+Thursday, 19 October 2017 at 17:28 || status update || 14 || 10  || 0
+Wednesday, 18 October 2017 at 21:13 || shared a post || 11 || 11  || 0
+Sunday, 15 October 2017 at 21:35 || shared a post || 3 || 0 || 0
+Friday, 13 October 2017 at 16:37 || shared memory || 4 || 0 || 0
+Sunday, 8 October 2017 at 14:43 || status update || 41 || 4  || 0
+Sunday, 8 October 2017 at 00:31 || status update || 43 || 2  || 1
+Tuesday, 3 October 2017 at 11:50 || shared a post || 3 || 1  || 7
+Sunday, 1 October 2017 at 07:22 || shared memory || 8 || 0 || 0
+Wednesday, 27 September 2017 at 23:58 || shared a post || 4 || 0 || 0
+Wednesday, 27 September 2017 at 14:50 || shared a post || 6 || 0 || 0
+Wednesday, 27 September 2017 at 03:11 || shared a post || 5 || 0 || 0
+Tuesday, 26 September 2017 at 21:39 || shared a post || 5 || 0 || 0
+Tuesday, 26 September 2017 at 20:34 || status update || 41 || 15  || 0
+Tuesday, 26 September 2017 at 13:00 || status update || 37 || 2  || 1
+Monday, 25 September 2017 at 09:38 || status update || 38 || 6  || 1
+Sunday, 24 September 2017 at 10:29 || shared a post || 8 || 0 || 5
+Friday, 22 September 2017 at 13:06 || shared a post || 3 || 0 || 0
+Friday, 15 September 2017 at 19:42 || shared memory || 5 || 7  || 0
+Monday, 11 September 2017 at 12:10 || status update || 38 || 0 || 1
+Wednesday, 6 September 2017 at 22:45 || shared a post || 8 || 8  || 0
+Wednesday, 6 September 2017 at 22:36 || shared a post || 4 || 1  || 0
+Monday, 4 September 2017 at 23:19 || status update || 41 || 4  || 1
+Monday, 4 September 2017 at 22:37 || status update || 148 || 29  || 1
+Saturday, 2 September 2017 at 22:46 || status update || 57 || 16  || 20
+Friday, 1 September 2017 at 21:25 || shared a post || 26 || 13  || 0
+Wednesday, 30 August 2017 at 16:36 || status update || 85 || 17  || 1
+Monday, 28 August 2017 at 22:50 || status update || 77 || 27  || 8
+Monday, 28 August 2017 at 21:48 || status update || 21 || 1  || 1
+Monday, 28 August 2017 at 11:59 || shared memory || 7 || 0 || 0
+Saturday, 26 August 2017 at 12:38 || status update || 10 || 2  || 1
+Saturday, 26 August 2017 at 12:37 || status update || 7 || 6  || 1
+Saturday, 26 August 2017 at 07:01 || status update || 14 || 3  || 1
+Saturday, 26 August 2017 at 06:55 || status update || 12 || 0 || 1
+Saturday, 26 August 2017 at 06:48 || status update || 14 || 0 || 1
+Saturday, 26 August 2017 at 06:33 || status update || 11 || 0 || 1
+Friday, 25 August 2017 at 20:50 || status update || 12 || 1  || 0
+Thursday, 24 August 2017 at 21:27 || status update || 39 || 15  || 0
+Wednesday, 23 August 2017 at 12:51 || shared a post || 8 || 0 || 0
+Monday, 21 August 2017 at 08:45 || shared memory || 9 || 0 || 0
+Monday, 21 August 2017 at 06:47 || check in || 32 || 6  || 2
+Sunday, 20 August 2017 at 12:53 || status update || 58 || 10  || 1
+Saturday, 19 August 2017 at 12:17 || check in || 62 || 31  || 1
+Wednesday, 16 August 2017 at 18:15 || shared a post || 5 || 0 || 0
+Wednesday, 16 August 2017 at 07:03 || status update || 37 || 2  || 1
+Tuesday, 15 August 2017 at 12:50 || status update || 33 || 0 || 6
+Sunday, 13 August 2017 at 21:14 || status update || 41 || 2  || 15
+Sunday, 13 August 2017 at 02:26 || status update || 12 || 0 || 1
+Friday, 11 August 2017 at 20:37 || check in || 16 || 2  || 0
+Wednesday, 9 August 2017 at 23:18 || shared a post || 0 || 0 || 5
+Saturday, 5 August 2017 at 13:11 || status update || 78 || 75  || 1
+Tuesday, 1 August 2017 at 23:32 || status update || 91 || 10  || 3
+Tuesday, 1 August 2017 at 14:39 || status update || 36 || 11  || 4
+Friday, 28 July 2017 at 07:04 || shared memory || 6 || 0 || 0
+Thursday, 20 July 2017 at 21:14 || check in || 40 || 11  || 4
+Thursday, 20 July 2017 at 18:58 || status update || 32 || 10  || 3
+Sunday, 16 July 2017 at 20:22 || status update || 91 || 54  || 27
+Sunday, 16 July 2017 at 16:44 || status update || 52 || 20  || 3
+Monday, 10 July 2017 at 20:01 || shared a post || 4 || 0 || 0
+Friday, 7 July 2017 at 11:23 || status update || 13 || 2  || 0
+Thursday, 6 July 2017 at 11:31 || status update || 22 || 0 || 2
+Tuesday, 4 July 2017 at 00:45 || shared a post || 4 || 14  || 4
+Sunday, 2 July 2017 at 15:02 || shared memory || 16 || 0 || 0
+Saturday, 1 July 2017 at 22:36 || status update || 62 || 6  || 10
+Saturday, 1 July 2017 at 20:35 || status update || 138 || 42  || 21
+Friday, 30 June 2017 at 18:09 || shared a post || 3 || 0 || 6
+Thursday, 29 June 2017 at 08:43 || shared a post || 1 || 0 || 0
+Wednesday, 28 June 2017 at 22:29 || status update || 76 || 17  || 1
+Wednesday, 28 June 2017 at 05:44 || status update || 1 || 0 || 0
+Tuesday, 27 June 2017 at 23:39 || shared a post || 3 || 0 || 0
+Tuesday, 27 June 2017 at 22:36 || shared a post || 0 || 0 || 11
+Tuesday, 27 June 2017 at 10:50 || status update || 2 || 0 || 0
+Monday, 26 June 2017 at 22:15 || shared a post || 0 || 0 || 0
+Saturday, 24 June 2017 at 23:29 || shared a post || 0 || 0 || 0
+Saturday, 24 June 2017 at 23:28 || shared a post || 1 || 0 || 0
+Saturday, 24 June 2017 at 16:32 || status update || 97 || 5  || 1
+Friday, 23 June 2017 at 19:06 || status update || 6 || 0 || 0
+Thursday, 22 June 2017 at 22:38 || status update || 18 || 0 || 0
+Wednesday, 21 June 2017 at 22:33 || status update || 38 || 2  || 0
+Wednesday, 21 June 2017 at 21:13 || status update || 135 || 84  || 0
+Tuesday, 20 June 2017 at 08:53 || shared a post || 20 || 5  || 0
+Monday, 19 June 2017 at 21:42 || status update || 37 || 0 || 1
+Monday, 19 June 2017 at 17:23 || status update || 31 || 2  || 1
+Monday, 19 June 2017 at 09:25 || status update || 48 || 1  || 0
+Sunday, 18 June 2017 at 22:59 || status update || 121 || 7  || 16
+Thursday, 15 June 2017 at 06:43 || shared a post || 2 || 0 || 0
+Tuesday, 13 June 2017 at 03:52 || status update || 8 || 1  || 0
+Monday, 12 June 2017 at 18:50 || status update || 50 || 2  || 4
+Friday, 2 June 2017 at 23:55 || status update || 33 || 0 || 0
+Friday, 2 June 2017 at 23:04 || status update || 25 || 11  || 0
+Thursday, 1 June 2017 at 20:35 || status update || 40 || 10  || 1
+Thursday, 1 June 2017 at 14:27 || status update || 35 || 13  || 2
+Thursday, 1 June 2017 at 11:27 || status update || 21 || 10  || 0
+Tuesday, 30 May 2017 at 16:40 || status update || 19 || 0 || 1
+Tuesday, 30 May 2017 at 12:21 || status update || 39 || 5  || 13
+Tuesday, 30 May 2017 at 09:03 || status update || 3 || 3  || 1
+Tuesday, 30 May 2017 at 08:18 || shared memory || 12 || 0 || 26
+Monday, 29 May 2017 at 18:55 || shared a post || 2 || 0 || 0
+Monday, 29 May 2017 at 18:45 || status update || 9 || 0 || 1
+Monday, 29 May 2017 at 15:37 || status update || 22 || 10  || 0
+Monday, 29 May 2017 at 14:04 || status update || 1 || 0 || 1
+Sunday, 28 May 2017 at 20:50 || status update || 17 || 2  || 0
+Sunday, 28 May 2017 at 11:02 || status update || 98 || 8  || 8
+Saturday, 27 May 2017 at 09:11 || status update || 6 || 0 || 0
+Thursday, 25 May 2017 at 23:06 || status update || 1 || 0 || 0
+Thursday, 25 May 2017 at 11:30 || shared a post || 4 || 0 || 0
+Monday, 22 May 2017 at 20:40 || shared a post || 17 || 9  || 0
+Monday, 22 May 2017 at 11:12 || status update || 35 || 10  || 0
+Sunday, 21 May 2017 at 23:08 || shared a post || 8 || 0 || 0
+Saturday, 20 May 2017 at 21:11 || status update || 128 || 16  || 1
+Saturday, 20 May 2017 at 19:56 || status update || 184 || 12  || 5
+Friday, 19 May 2017 at 21:26 || status update || 32 || 7  || 0
+Wednesday, 17 May 2017 at 21:32 || status update || 21 || 0 || 0
+Wednesday, 17 May 2017 at 12:20 || status update || 124 || 12  || 25
+Monday, 15 May 2017 at 23:01 || status update || 134 || 12  || 4
+Sunday, 14 May 2017 at 19:42 || status update || 23 || 4  || 0
+Sunday, 14 May 2017 at 19:00 || shared memory || 4 || 0 || 0
+Thursday, 11 May 2017 at 21:23 || shared a post || 4 || 0 || 0
+Thursday, 11 May 2017 at 06:36 || shared a post || 5 || 0 || 0
+Monday, 8 May 2017 at 21:15 || status update || 22 || 0 || 0
+Monday, 8 May 2017 at 10:40 || status update || 35 || 10  || 0
+Thursday, 4 May 2017 at 12:27 || shared a post || 0 || 0 || 0
+Wednesday, 3 May 2017 at 19:28 || shared a post || 3 || 0 || 0
+Sunday, 30 April 2017 at 14:19 || status update || 16 || 13  || 1
+Sunday, 30 April 2017 at 05:52 || status update || 21 || 0 || 0
+Saturday, 29 April 2017 at 20:48 || status update || 16 || 0 || 0
+Saturday, 29 April 2017 at 14:33 || status update || 1 || 0 || 0
+Thursday, 27 April 2017 at 20:06 || shared a post || 5 || 0 || 0
+Thursday, 27 April 2017 at 19:32 || shared a post || 9 || 0 || 0
+Sunday, 23 April 2017 at 22:27 || status update || 64 || 3  || 7
+Saturday, 22 April 2017 at 13:14 || shared a post || 0 || 0 || 26
+Friday, 21 April 2017 at 23:35 || status update || 18 || 0 || 1
+Thursday, 20 April 2017 at 21:46 || status update || 22 || 10  || 0
+Wednesday, 19 April 2017 at 22:02 || shared a post || 4 || 0 || 0
+Sunday, 16 April 2017 at 22:11 || shared a post || 2 || 0 || 0
+Saturday, 15 April 2017 at 13:10 || status update || 14 || 12  || 0
+Friday, 14 April 2017 at 18:37 || status update || 17 || 0 || 0
+Thursday, 13 April 2017 at 09:34 || status update || 18 || 3  || 0
+Tuesday, 11 April 2017 at 19:44 || shared a post || 5 || 0 || 0
+Tuesday, 11 April 2017 at 06:05 || shared a post || 0 || 0 || 0
+Monday, 10 April 2017 at 18:11 || status update || 153 || 6  || 31
+Sunday, 9 April 2017 at 20:00 || status update || 21 || 0 || 0
+Friday, 7 April 2017 at 20:05 || status update || 15 || 0 || 0
+Wednesday, 5 April 2017 at 12:59 || shared a post || 1 || 0 || 0
+Sunday, 2 April 2017 at 12:08 || status update || 18 || 4  || 0
+Thursday, 30 March 2017 at 21:11 || shared a post || 37 || 4  || 1
+Thursday, 30 March 2017 at 12:22 || status update || 55 || 3  || 1
+Thursday, 30 March 2017 at 12:22 || status update || 17 || 0 || 1
+Thursday, 30 March 2017 at 12:22 || status update || 12 || 1  || 1
+Thursday, 30 March 2017 at 12:22 || status update || 12 || 0 || 1
+Thursday, 30 March 2017 at 12:22 || status update || 72 || 13  || 5
+Thursday, 30 March 2017 at 12:22 || status update || 12 || 3  || 1
+Thursday, 30 March 2017 at 12:22 || status update || 23 || 0 || 1
+Thursday, 30 March 2017 at 12:22 || status update || 29 || 0 || 1
+Thursday, 30 March 2017 at 12:22 || status update || 19 || 4  || 1
+Thursday, 30 March 2017 at 12:22 || status update || 39 || 0 || 1
+Thursday, 30 March 2017 at 12:22 || status update || 39 || 0 || 1
+Thursday, 30 March 2017 at 12:22 || status update || 21 || 3  || 1
+Thursday, 30 March 2017 at 12:22 || status update || 39 || 0 || 1
+Thursday, 30 March 2017 at 12:22 || status update || 19 || 0 || 1
+Thursday, 30 March 2017 at 12:22 || status update || 28 || 7  || 1
+Thursday, 30 March 2017 at 12:22 || status update || 59 || 0 || 1
+Thursday, 30 March 2017 at 12:22 || status update || 44 || 2  || 1
+Thursday, 30 March 2017 at 12:22 || status update || 81 || 0 || 1
+Thursday, 30 March 2017 at 12:02 || status update || 93 || 5  || 1
+Wednesday, 29 March 2017 at 22:44 || status update || 13 || 0 || 0
+Tuesday, 28 March 2017 at 12:52 || check in || 26 || 0 || 1
+Tuesday, 28 March 2017 at 12:35 || status update || 104 || 3  || 41
+Monday, 27 March 2017 at 20:43 || status update || 59 || 2  || 1
+Monday, 27 March 2017 at 19:45 || status update || 113 || 8  || 29
+Monday, 27 March 2017 at 15:11 || shared memory || 23 || 1  || 0
+Monday, 27 March 2017 at 12:57 || shared a post || 13 || 3  || 0
+Monday, 27 March 2017 at 12:24 || shared a post || 3 || 1  || 0
+Sunday, 26 March 2017 at 05:26 || status update || 24 || 7  || 0
+Saturday, 25 March 2017 at 22:12 || status update || 12 || 0 || 1
+Saturday, 25 March 2017 at 06:47 || status update || 33 || 5  || 0
+Friday, 24 March 2017 at 19:48 || status update || 47 || 42  || 1
+Friday, 24 March 2017 at 19:46 || status update || 19 || 8  || 1
+Friday, 24 March 2017 at 18:32 || status update || 156 || 28  || 0
+Thursday, 23 March 2017 at 17:09 || shared memory || 4 || 3  || 0
+Thursday, 23 March 2017 at 12:58 || status update || 132 || 11  || 7
+Thursday, 23 March 2017 at 11:41 || status update || 91 || 24  || 18
+Wednesday, 22 March 2017 at 15:41 || shared a post || 3 || 0 || 0
+Wednesday, 22 March 2017 at 05:31 || status update || 5 || 0 || 0
+Monday, 20 March 2017 at 22:18 || shared a post || 4 || 0 || 0
+Sunday, 19 March 2017 at 21:41 || shared a post || 3 || 0 || 0
+Saturday, 18 March 2017 at 21:37 || shared a post || 5 || 0 || 0
+Friday, 17 March 2017 at 21:57 || status update || 13 || 0 || 0
+Friday, 17 March 2017 at 12:50 || shared a post || 2 || 0 || 0
+Friday, 17 March 2017 at 04:12 || shared a post || 5 || 0 || 0
+Thursday, 16 March 2017 at 22:22 || shared a post || 4 || 0 || 0
+Thursday, 16 March 2017 at 06:00 || status update || 14 || 3  || 0
+Monday, 13 March 2017 at 17:01 || status update || 20 || 12  || 0
+Sunday, 12 March 2017 at 21:48 || status update || 16 || 6  || 0
+Sunday, 12 March 2017 at 21:14 || status update || 30 || 6  || 0
+Sunday, 12 March 2017 at 10:29 || shared a post || 3 || 0 || 0
+Friday, 10 March 2017 at 22:11 || status update || 19 || 0 || 1
+Thursday, 9 March 2017 at 21:40 || status update || 9 || 0 || 0
+Thursday, 9 March 2017 at 15:14 || status update || 17 || 6  || 1
+Thursday, 9 March 2017 at 12:24 || shared a post || 3 || 0 || 0
+Wednesday, 8 March 2017 at 22:28 || status update || 63 || 69  || 0
+Wednesday, 8 March 2017 at 21:32 || status update || 5 || 0 || 1
+Wednesday, 8 March 2017 at 21:32 || status update || 2 || 0 || 1
+Wednesday, 8 March 2017 at 21:32 || status update || 1 || 0 || 1
+Wednesday, 8 March 2017 at 21:27 || status update || 35 || 9  || 0
+Wednesday, 8 March 2017 at 21:20 || status update || 25 || 0 || 0
+Wednesday, 8 March 2017 at 21:10 || status update || 21 || 4  || 0
+Wednesday, 8 March 2017 at 20:31 || status update || 37 || 4  || 1
+Wednesday, 8 March 2017 at 19:34 || status update || 83 || 4  || 6
+Wednesday, 8 March 2017 at 10:37 || shared memory || 21 || 0 || 1
+Wednesday, 8 March 2017 at 04:16 || status update || 1 || 1  || 1
+Monday, 6 March 2017 at 19:48 || status update || 72 || 5  || 8
+Monday, 6 March 2017 at 13:38 || shared a post || 3 || 0 || 0
+Sunday, 5 March 2017 at 23:08 || status update || 16 || 0 || 0
+Saturday, 4 March 2017 at 22:15 || status update || 22 || 0 || 1
+Saturday, 4 March 2017 at 21:44 || shared a post || 2 || 0 || 0
+Saturday, 4 March 2017 at 21:06 || status update || 42 || 4  || 0
+Saturday, 4 March 2017 at 12:48 || status update || 24 || 0 || 1
+Wednesday, 1 March 2017 at 21:18 || status update || 42 || 0 || 2
+Tuesday, 28 February 2017 at 21:23 || shared a post || 7 || 0 || 0
+Friday, 24 February 2017 at 17:44 || status update || 19 || 8  || 1
+Wednesday, 22 February 2017 at 20:23 || shared a post || 2 || 0 || 0
+Sunday, 19 February 2017 at 18:13 || status update || 10 || 2  || 0
+Saturday, 18 February 2017 at 06:20 || shared a post || 1 || 0 || 0
+Saturday, 18 February 2017 at 06:11 || status update || 33 || 0 || 1
+Tuesday, 14 February 2017 at 06:15 || shared a post || 2 || 0 || 0
+Monday, 13 February 2017 at 22:03 || status update || 17 || 9  || 1
+Monday, 13 February 2017 at 14:24 || shared a post || 3 || 0 || 0
+Sunday, 12 February 2017 at 19:59 || shared a post || 8 || 11  || 0
+Sunday, 12 February 2017 at 18:00 || status update || 41 || 7  || 0
+Friday, 10 February 2017 at 19:33 || status update || 11 || 4  || 0
+Friday, 10 February 2017 at 17:04 || shared a post || 2 || 0 || 0
+Sunday, 5 February 2017 at 18:34 || shared a post || 24 || 2  || 0
+Thursday, 2 February 2017 at 21:52 || shared memory || 32 || 12  || 2
+Thursday, 2 February 2017 at 21:08 || shared a post || 33 || 19  || 0
+Wednesday, 1 February 2017 at 19:01 || check in || 40 || 2  || 10
+Wednesday, 1 February 2017 at 18:24 || status update || 42 || 1  || 1
+Wednesday, 1 February 2017 at 15:35 || check in || 28 || 0 || 20
+Tuesday, 31 January 2017 at 13:50 || status update || 43 || 2  || 1
+Tuesday, 31 January 2017 at 12:15 || status update || 36 || 0 || 1
+Tuesday, 31 January 2017 at 10:58 || shared a post || 25 || 0 || 0
+Monday, 30 January 2017 at 19:50 || shared a post || 5 || 7  || 0
+Sunday, 29 January 2017 at 22:43 || shared a post || 4 || 0 || 0
+Sunday, 29 January 2017 at 12:18 || status update || 20 || 6  || 1
+Saturday, 28 January 2017 at 21:37 || status update || 18 || 6  || 8
+Saturday, 28 January 2017 at 12:28 || status update || 50 || 1  || 1
+Saturday, 28 January 2017 at 10:07 || check in || 14 || 0 || 1
+Saturday, 28 January 2017 at 10:04 || status update || 6 || 0 || 1
+Saturday, 28 January 2017 at 01:14 || status update || 44 || 0 || 1
+Saturday, 28 January 2017 at 00:57 || shared a post || 2 || 0 || 0
+Saturday, 28 January 2017 at 00:16 || shared a post || 3 || 0 || 0
+Friday, 27 January 2017 at 09:38 || status update || 0 || 0 || 3
+Thursday, 26 January 2017 at 17:38 || status update || 79 || 21  || 1
+Wednesday, 25 January 2017 at 19:49 || status update || 30 || 0 || 10
+Wednesday, 25 January 2017 at 14:40 || status update || 7 || 0 || 1
+Wednesday, 25 January 2017 at 09:50 || status update || 28 || 5  || 1
+Tuesday, 24 January 2017 at 22:12 || status update || 69 || 3  || 15
+Monday, 23 January 2017 at 22:09 || status update || 19 || 9  || 1
+Sunday, 22 January 2017 at 18:05 || shared a post || 1 || 0 || 0
+Thursday, 19 January 2017 at 12:41 || status update || 18 || 0 || 0
+Saturday, 14 January 2017 at 22:20 || status update || 39 || 2  || 0
+Friday, 13 January 2017 at 18:57 || status update || 24 || 0 || 1
+Friday, 13 January 2017 at 17:15 || shared a post || 17 || 12  || 9
+Friday, 13 January 2017 at 15:16 || status update || 27 || 0 || 0
+Thursday, 12 January 2017 at 19:31 || shared a post || 9 || 0 || 0
+Thursday, 12 January 2017 at 19:15 || status update || 33 || 9  || 0
+Thursday, 5 January 2017 at 08:09 || status update || 37 || 2  || 5
+Wednesday, 4 January 2017 at 22:23 || status update || 22 || 2  || 1
+Wednesday, 4 January 2017 at 22:03 || shared a post || 3 || 0 || 0
+Monday, 2 January 2017 at 13:46 || status update || 14 || 0 || 1
+Sunday, 1 January 2017 at 22:41 || check in || 49 || 16  || 18
+Sunday, 1 January 2017 at 11:04 || status update || 75 || 0 || 1
+Friday, 30 December 2016 at 19:05 || status update || 25 || 0 || 0
+Wednesday, 28 December 2016 at 21:54 || status update || 1 || 1  || 1
+Wednesday, 28 December 2016 at 21:25 || status update || 52 || 24  || 1
+Wednesday, 28 December 2016 at 08:26 || status update || 25 || 5  || 1
+Sunday, 25 December 2016 at 19:06 || shared a post || 1 || 0 || 0
+Monday, 19 December 2016 at 20:12 || status update || 122 || 0 || 26
+Saturday, 17 December 2016 at 22:56 || status update || 24 || 7  || 1
+Thursday, 15 December 2016 at 07:57 || status update || 21 || 15  || 0
+Wednesday, 14 December 2016 at 13:12 || status update || 39 || 10  || 0
+Monday, 12 December 2016 at 16:43 || status update || 119 || 7  || 27
+Tuesday, 6 December 2016 at 19:47 || shared a post || 6 || 3  || 0
+Saturday, 3 December 2016 at 12:23 || status update || 19 || 0 || 1
+Saturday, 3 December 2016 at 12:08 || status update || 10 || 0 || 0
+Wednesday, 30 November 2016 at 21:43 || shared a post || 4 || 0 || 0
+Monday, 28 November 2016 at 13:13 || status update || 106 || 37  || 14
+Saturday, 26 November 2016 at 23:29 || status update || 61 || 10  || 0
+Saturday, 26 November 2016 at 19:41 || shared a post || 11 || 0 || 0
+Friday, 25 November 2016 at 16:54 || status update || 36 || 0 || 1
+Monday, 21 November 2016 at 21:40 || status update || 102 || 40  || 0
+Sunday, 20 November 2016 at 15:28 || status update || 26 || 11  || 0
+Sunday, 20 November 2016 at 07:53 || status update || 4 || 0 || 1
+Sunday, 13 November 2016 at 13:12 || status update || 14 || 0 || 0
+Friday, 11 November 2016 at 17:30 || status update || 39 || 2  || 0
+Thursday, 10 November 2016 at 20:33 || status update || 14 || 0 || 0
+Monday, 7 November 2016 at 14:06 || shared a post || 4 || 0 || 0
+Monday, 7 November 2016 at 13:33 || status update || 43 || 0 || 1
+Monday, 7 November 2016 at 07:39 || status update || 63 || 6  || 1
+Sunday, 6 November 2016 at 22:10 || status update || 96 || 4  || 16
+Sunday, 6 November 2016 at 12:21 || status update || 144 || 0 || 3
+Sunday, 6 November 2016 at 05:00 || status update || 28 || 0 || 0
+Saturday, 5 November 2016 at 19:47 || shared a post || 5 || 0 || 0
+Sunday, 30 October 2016 at 22:24 || status update || 24 || 2  || 1
+Friday, 28 October 2016 at 22:42 || shared a post || 4 || 0 || 0
+Thursday, 27 October 2016 at 10:16 || shared a post || 8 || 0 || 0
+Monday, 24 October 2016 at 19:56 || shared a post || 8 || 2  || 0
+Sunday, 23 October 2016 at 21:56 || status update || 21 || 1  || 0
+Sunday, 23 October 2016 at 10:38 || status update || 134 || 4  || 10
+Friday, 21 October 2016 at 17:48 || status update || 5 || 1  || 0
+Friday, 21 October 2016 at 12:37 || status update || 108 || 11  || 0
+Thursday, 20 October 2016 at 21:38 || status update || 7 || 4  || 0
+Thursday, 20 October 2016 at 19:53 || status update || 19 || 13  || 0
+Thursday, 20 October 2016 at 09:33 || status update || 158 || 38  || 18
+Wednesday, 19 October 2016 at 16:19 || status update || 31 || 4  || 0
+Monday, 17 October 2016 at 19:57 || status update || 49 || 40  || 1
+Sunday, 16 October 2016 at 19:21 || shared a post || 0 || 0 || 0
+Sunday, 16 October 2016 at 16:19 || status update || 23 || 0 || 0
+Saturday, 15 October 2016 at 20:40 || shared a post || 4 || 0 || 0
+Saturday, 15 October 2016 at 10:45 || status update || 0 || 0 || 0
+Friday, 14 October 2016 at 19:43 || status update || 125 || 14  || 10
+Thursday, 13 October 2016 at 21:40 || shared a post || 9 || 0 || 0
+Thursday, 13 October 2016 at 21:23 || shared a post || 5 || 0 || 0
+Wednesday, 12 October 2016 at 23:54 || status update || 45 || 3  || 1
+Tuesday, 11 October 2016 at 19:40 || shared a post || 3 || 1  || 0
+Friday, 7 October 2016 at 22:01 || shared a post || 6 || 0 || 0
+Thursday, 6 October 2016 at 16:54 || shared a post || 3 || 0 || 0
+Monday, 3 October 2016 at 22:25 || status update || 14 || 0 || 0
+Monday, 3 October 2016 at 19:16 || status update || 34 || 0 || 0
+Sunday, 2 October 2016 at 22:05 || status update || 16 || 0 || 0
+Saturday, 1 October 2016 at 20:57 || status update || 26 || 10  || 1
+Thursday, 29 September 2016 at 20:55 || status update || 28 || 5  || 1
+Thursday, 22 September 2016 at 10:06 || status update || 43 || 3  || 1
+Wednesday, 21 September 2016 at 21:41 || status update || 2 || 0 || 0
+Wednesday, 21 September 2016 at 12:33 || status update || 34 || 8  || 1
+Tuesday, 20 September 2016 at 22:17 || status update || 20 || 0 || 0
+Tuesday, 20 September 2016 at 06:03 || shared a post || 3 || 0 || 0
+Monday, 19 September 2016 at 23:45 || shared a post || 1 || 0 || 0
+Monday, 19 September 2016 at 19:47 || status update || 16 || 0 || 1
+Monday, 19 September 2016 at 11:37 || status update || 23 || 5  || 0
+Sunday, 18 September 2016 at 22:10 || status update || 137 || 24  || 5
+Sunday, 18 September 2016 at 21:27 || status update || 17 || 10  || 0
+Sunday, 18 September 2016 at 09:41 || status update || 0 || 0 || 0
+Friday, 16 September 2016 at 12:04 || status update || 18 || 1  || 0
+Thursday, 15 September 2016 at 18:41 || status update || 20 || 0 || 0
+Thursday, 15 September 2016 at 05:51 || status update || 27 || 6  || 0
+Wednesday, 14 September 2016 at 20:15 || status update || 16 || 1  || 0
+Wednesday, 14 September 2016 at 19:41 || status update || 23 || 7  || 0
+Wednesday, 14 September 2016 at 17:15 || status update || 19 || 27  || 0
+Wednesday, 14 September 2016 at 17:09 || shared a post || 4 || 0 || 0
+Wednesday, 14 September 2016 at 12:11 || status update || 23 || 5  || 0
+Wednesday, 14 September 2016 at 05:29 || status update || 13 || 0 || 0
+Tuesday, 13 September 2016 at 21:19 || shared a post || 7 || 0 || 0
+Tuesday, 13 September 2016 at 21:02 || status update || 18 || 0 || 0
+Monday, 12 September 2016 at 19:09 || shared a post || 20 || 19  || 0
+Monday, 12 September 2016 at 13:07 || status update || 17 || 1  || 0
+Saturday, 10 September 2016 at 20:37 || status update || 18 || 0 || 0
+Saturday, 10 September 2016 at 12:51 || status update || 4 || 5  || 0
+Saturday, 10 September 2016 at 12:16 || status update || 12 || 1  || 0
+Friday, 9 September 2016 at 17:02 || shared a post || 9 || 0 || 0
+Thursday, 8 September 2016 at 15:08 || shared a post || 10 || 7  || 0
+Thursday, 8 September 2016 at 09:58 || shared a post || 9 || 39  || 1
+Wednesday, 7 September 2016 at 12:26 || shared a post || 21 || 5  || 0
+Tuesday, 6 September 2016 at 17:51 || status update || 42 || 10  || 0
+Saturday, 3 September 2016 at 23:28 || status update || 30 || 9  || 1
+Saturday, 3 September 2016 at 23:13 || shared a post || 4 || 6  || 0
+Friday, 2 September 2016 at 20:48 || status update || 1 || 0 || 1
+Friday, 2 September 2016 at 20:48 || status update || 3 || 0 || 1
+Thursday, 1 September 2016 at 08:59 || status update || 19 || 2  || 0
+Wednesday, 31 August 2016 at 20:17 || status update || 0 || 0 || 0
+Wednesday, 31 August 2016 at 18:04 || status update || 24 || 10  || 1
+Wednesday, 31 August 2016 at 06:09 || shared a post || 2 || 0 || 0
+Tuesday, 30 August 2016 at 21:19 || status update || 22 || 26  || 1
+Tuesday, 30 August 2016 at 13:06 || status update || 5 || 0 || 0
+Monday, 29 August 2016 at 17:08 || status update || 26 || 3  || 0
+Sunday, 28 August 2016 at 16:51 || status update || 33 || 18  || 0
+Saturday, 27 August 2016 at 19:06 || status update || 122 || 0 || 11
+Saturday, 27 August 2016 at 18:51 || status update || 42 || 2  || 3
+Saturday, 27 August 2016 at 09:57 || status update || 26 || 0 || 0
+Friday, 26 August 2016 at 11:10 || status update || 86 || 25  || 1
+Thursday, 25 August 2016 at 19:44 || status update || 31 || 0 || 0
+Thursday, 25 August 2016 at 00:07 || status update || 25 || 0 || 0
+Wednesday, 24 August 2016 at 23:38 || status update || 25 || 28  || 1
+Wednesday, 24 August 2016 at 21:40 || status update || 10 || 5  || 0
+Tuesday, 23 August 2016 at 20:16 || status update || 40 || 9  || 0
+Sunday, 21 August 2016 at 21:47 || status update || 56 || 37  || 0
+Sunday, 21 August 2016 at 19:24 || status update || 41 || 3  || 0
+Sunday, 21 August 2016 at 12:16 || status update || 56 || 9  || 0
+Saturday, 20 August 2016 at 18:30 || shared a post || 12 || 0 || 0
+Saturday, 20 August 2016 at 06:51 || status update || 39 || 0 || 0
+Thursday, 18 August 2016 at 06:29 || status update || 41 || 4  || 1
+Tuesday, 16 August 2016 at 16:58 || status update || 49 || 5  || 0
+Saturday, 13 August 2016 at 22:13 || status update || 44 || 0 || 0
+Saturday, 13 August 2016 at 15:23 || status update || 36 || 0 || 1
+Friday, 12 August 2016 at 15:27 || status update || 29 || 0 || 1
+Tuesday, 9 August 2016 at 20:43 || status update || 17 || 6  || 0
+Saturday, 6 August 2016 at 15:10 || shared a post || 3 || 0 || 0
+Saturday, 6 August 2016 at 10:42 || status update || 43 || 11  || 1
+Friday, 5 August 2016 at 23:05 || status update || 16 || 8  || 1
+Friday, 5 August 2016 at 22:45 || status update || 36 || 6  || 0
+Friday, 5 August 2016 at 18:24 || status update || 47 || 2  || 0
+Wednesday, 3 August 2016 at 10:09 || status update || 31 || 5  || 1
+Monday, 1 August 2016 at 22:00 || status update || 29 || 1  || 0
+Monday, 1 August 2016 at 12:48 || shared a post || 6 || 0 || 0
+Sunday, 31 July 2016 at 21:58 || status update || 42 || 3  || 0
+Sunday, 31 July 2016 at 21:56 || status update || 52 || 3  || 1
+Saturday, 30 July 2016 at 19:45 || status update || 35 || 20  || 1
+Saturday, 30 July 2016 at 09:29 || status update || 36 || 1  || 0
+Friday, 29 July 2016 at 23:32 || status update || 34 || 0 || 1
+Friday, 29 July 2016 at 17:48 || shared memory || 47 || 2  || 0
+Wednesday, 27 July 2016 at 22:05 || status update || 54 || 1  || 1
+Sunday, 24 July 2016 at 19:04 || status update || 61 || 9  || 0
+Sunday, 24 July 2016 at 16:09 || status update || 50 || 6  || 0
+Saturday, 23 July 2016 at 21:23 || status update || 34 || 0 || 0
+Thursday, 21 July 2016 at 22:21 || status update || 12 || 5  || 0
+Thursday, 21 July 2016 at 10:38 || shared a post || 25 || 12  || 0
+Tuesday, 19 July 2016 at 23:40 || status update || 36 || 8  || 1
+Saturday, 16 July 2016 at 21:38 || status update || 64 || 17  || 0
+Saturday, 16 July 2016 at 19:28 || status update || 51 || 18  || 1
+Friday, 15 July 2016 at 16:16 || status update || 103 || 12  || 27
+Friday, 15 July 2016 at 08:54 || status update || 14 || 3  || 0
+Friday, 15 July 2016 at 07:27 || status update || 75 || 0 || 1
+Friday, 15 July 2016 at 07:14 || shared memory || 29 || 1  || 0
+Monday, 11 July 2016 at 21:55 || status update || 65 || 9  || 1
+Sunday, 10 July 2016 at 06:29 || status update || 65 || 23  || 1
+Saturday, 9 July 2016 at 19:18 || status update || 58 || 43  || 1
+Saturday, 9 July 2016 at 08:03 || status update || 9 || 1  || 0
+Saturday, 9 July 2016 at 07:53 || status update || 78 || 31  || 1
+Friday, 8 July 2016 at 22:33 || status update || 59 || 17  || 1
+Thursday, 7 July 2016 at 21:06 || status update || 54 || 0 || 1
+Wednesday, 6 July 2016 at 15:20 || status update || 54 || 15  || 1
+Tuesday, 5 July 2016 at 12:35 || status update || 110 || 14  || 1
+Saturday, 2 July 2016 at 23:54 || status update || 81 || 18  || 1
+Saturday, 2 July 2016 at 15:36 || status update || 84 || 2  || 1
+Saturday, 2 July 2016 at 12:45 || status update || 162 || 7  || 3
+Saturday, 2 July 2016 at 12:25 || status update || 84 || 0 || 2
+Saturday, 2 July 2016 at 12:23 || status update || 168 || 4  || 26
+Friday, 1 July 2016 at 10:18 || status update || 7 || 2  || 0
+Friday, 24 June 2016 at 15:29 || status update || 111 || 39  || 1
+Wednesday, 22 June 2016 at 22:10 || status update || 10 || 0 || 0
+Monday, 20 June 2016 at 18:09 || status update || 19 || 9  || 1
+Monday, 20 June 2016 at 16:43 || status update || 76 || 23  || 1
+Sunday, 19 June 2016 at 09:27 || status update || 59 || 1  || 0
+Saturday, 18 June 2016 at 21:45 || status update || 63 || 18  || 1
+Saturday, 18 June 2016 at 21:01 || status update || 6 || 10  || 0
+Saturday, 18 June 2016 at 07:05 || status update || 12 || 2  || 0
+Friday, 17 June 2016 at 00:32 || status update || 68 || 2  || 1
+Tuesday, 14 June 2016 at 12:12 || status update || 8 || 1  || 0
+Monday, 13 June 2016 at 08:37 || status update || 95 || 70  || 1
+Saturday, 11 June 2016 at 22:09 || status update || 67 || 18  || 0
+Thursday, 9 June 2016 at 22:01 || status update || 51 || 19  || 0
+Monday, 6 June 2016 at 21:11 || status update || 4 || 0 || 0
+Monday, 6 June 2016 at 16:00 || status update || 155 || 71  || 1
+Monday, 6 June 2016 at 05:50 || status update || 70 || 1  || 31
+Sunday, 5 June 2016 at 15:50 || status update || 79 || 9  || 1
+Saturday, 4 June 2016 at 15:38 || status update || 52 || 0 || 1
+Saturday, 4 June 2016 at 12:56 || status update || 64 || 7  || 1
+Saturday, 4 June 2016 at 06:44 || shared a post || 6 || 0 || 19
+Thursday, 2 June 2016 at 18:36 || status update || 97 || 40  || 31
+Wednesday, 1 June 2016 at 07:53 || status update || 56 || 7  || 0
+Tuesday, 31 May 2016 at 05:47 || status update || 9 || 0 || 0
+Friday, 27 May 2016 at 09:06 || status update || 114 || 4  || 2
+Thursday, 26 May 2016 at 18:34 || check in || 110 || 0 || 5
+Thursday, 26 May 2016 at 07:12 || status update || 104 || 15  || 1
+Monday, 23 May 2016 at 08:59 || status update || 93 || 7  || 1
+Saturday, 21 May 2016 at 20:00 || status update || 18 || 11  || 0
+Monday, 16 May 2016 at 00:42 || status update || 10 || 0 || 0
+Saturday, 14 May 2016 at 19:48 || status update || 36 || 0 || 0
+Thursday, 12 May 2016 at 22:44 || status update || 85 || 11  || 1
+Sunday, 8 May 2016 at 08:22 || status update || 46 || 2  || 1
+Tuesday, 3 May 2016 at 10:40 || status update || 52 || 0 || 0
+Monday, 2 May 2016 at 12:10 || status update || 39 || 16  || 1
+Saturday, 30 April 2016 at 19:45 || status update || 48 || 14  || 0
+Wednesday, 27 April 2016 at 21:22 || status update || 67 || 5  || 1
+Sunday, 24 April 2016 at 21:49 || status update || 43 || 1  || 0
+Saturday, 23 April 2016 at 21:44 || status update || 49 || 19  || 0
+Wednesday, 20 April 2016 at 19:10 || status update || 9 || 0 || 1
+Wednesday, 20 April 2016 at 18:40 || status update || 65 || 11  || 18
+Thursday, 21 April 2016 at 20:08 || status update || 4 || 1  || 0
+Saturday, 16 April 2016 at 13:42 || status update || 42 || 4  || 1
+Saturday, 16 April 2016 at 07:37 || status update || 30 || 5  || 1
+Thursday, 7 April 2016 at 12:47 || status update || 156 || 47  || 0
+Saturday, 26 March 2016 at 22:04 || status update || 87 || 22  || 0
+Wednesday, 23 March 2016 at 22:05 || status update || 53 || 5  || 0
+Sunday, 20 March 2016 at 21:52 || status update || 144 || 64  || 41
+Sunday, 20 March 2016 at 21:26 || status update || 35 || 3  || 0
+Wednesday, 16 March 2016 at 21:02 || check in || 53 || 5  || 1
+Friday, 11 March 2016 at 20:10 || status update || 48 || 23  || 0
+Friday, 11 March 2016 at 17:58 || status update || 41 || 42  || 1
+Tuesday, 8 March 2016 at 18:26 || status update || 50 || 12  || 0
+Tuesday, 8 March 2016 at 17:28 || status update || 127 || 54  || 21
+Tuesday, 8 March 2016 at 10:58 || status update || 46 || 10  || 0
+Tuesday, 8 March 2016 at 07:38 || status update || 56 || 18  || 1
+Saturday, 5 March 2016 at 21:10 || status update || 29 || 29  || 0
+Thursday, 3 March 2016 at 21:00 || status update || 12 || 8  || 0
+Sunday, 28 February 2016 at 21:21 || status update || 48 || 4  || 1
+Saturday, 13 February 2016 at 21:26 || status update || 35 || 0 || 0
+Sunday, 7 February 2016 at 23:57 || status update || 56 || 8  || 0
+Sunday, 7 February 2016 at 19:22 || status update || 63 || 26  || 0
+Wednesday, 3 February 2016 at 07:23 || status update || 131 || 2  || 13
+Tuesday, 2 February 2016 at 21:16 || status update || 87 || 35  || 2
+Monday, 28 December 2015 at 17:02 || status update || 1 || 0 || 0
+Monday, 20 July 2015 at 21:07 || shared a post || 5 || 0 || 0
+Friday, 8 May 2015 at 18:52 || status update || 84 || 62  || 0
+Sunday, 3 May 2015 at 15:12 || status update || 42 || 85  || 0
+Thursday, 23 April 2015 at 22:15 || status update || 0 || 0 || 0
+Wednesday, 22 April 2015 at 20:15 || status update || 1 || 0 || 0
+Sunday, 8 March 2015 at 12:36 || check in || 96 || 8  || 0
+Thursday, 1 January 2015 at 14:24 || status update || 136 || 16  || 0
+Thursday, 1 January 2015 at 12:59 || status update || 0 || 0 || 0
+Sunday, 28 December 2014 at 22:01 || status update || 0 || 0 || 0
+Monday, 8 September 2014 at 21:17 || status update || 0 || 0 || 1
+Saturday, 21 June 2014 at 13:23 || status update || 5 || 0 || 1
+Thursday, 5 June 2014 at 16:30 || status update || 4.1K || 123  || 0
+Tuesday, 13 May 2014 at 17:11 || status update || 9 || 0 || 1
+Monday, 12 May 2014 at 19:35 || shared a post || 6 || 0 || 0
+Saturday, 10 May 2014 at 13:33 || status update || 41 || 3  || 1
+Wednesday, 30 April 2014 at 13:32 || status update || 1.6K || 43  || 0
+Sunday, 27 April 2014 at 23:17 || status update || 3.7K || 293  || 0
+Wednesday, 9 April 2014 at 18:59 || shared a post || 1 || 0 || 0
+Wednesday, 9 April 2014 at 18:58 || shared a post || 2 || 0 || 0
+Wednesday, 9 April 2014 at 18:57 || shared a post || 1 || 0 || 0
+Wednesday, 9 April 2014 at 18:56 || status update || 1 || 0 || 0
+Wednesday, 9 April 2014 at 18:54 || shared a post || 1 || 0 || 0
+Wednesday, 9 April 2014 at 18:52 || shared a post || 1 || 0 || 0
+Monday, 17 March 2014 at 15:20 || shared a post || 2 || 0 || 0
+Monday, 17 March 2014 at 15:14 || shared a post || 1 || 0 || 0
+Sunday, 16 March 2014 at 10:16 || shared a post || 4 || 0 || 0
+Sunday, 16 March 2014 at 09:12 || shared a post || 1 || 0 || 0
+Thursday, 13 March 2014 at 20:26 || status update || 1 || 0 || 1
+Thursday, 13 March 2014 at 20:03 || shared a post || 1 || 0 || 0
+Thursday, 13 March 2014 at 19:54 || shared a post || 1 || 0 || 0
+Thursday, 13 March 2014 at 19:40 || status update || 1 || 0 || 0
+Wednesday, 12 March 2014 at 10:16 || status update || 768 || 11  || 0
+Saturday, 8 March 2014 at 11:59 || status update || 6.3K || 266  || 0
+Monday, 3 March 2014 at 18:26 || status update || 3 || 0 || 1
+Saturday, 8 February 2014 at 10:55 || status update || 2 || 0 || 1
+Saturday, 8 February 2014 at 10:53 || status update || 3 || 0 || 1
+Saturday, 8 February 2014 at 10:52 || status update || 3 || 0 || 1
+Saturday, 8 February 2014 at 10:25 || status update || 1 || 0 || 1
+Saturday, 28 December 2013 at 19:35 || status update || 0 || 0 || 0
+Tuesday, 1 January 2013 at 15:00 || status update || 2 || 0 || 0
